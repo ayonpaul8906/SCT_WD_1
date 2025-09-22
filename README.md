@@ -1,4 +1,4 @@
-# 🎧 EchoWave - Headphone E-commerce Landing Page
+# 🎧 WaveX - Headphone E-commerce Landing Page
 
 A modern, fully responsive **Headphone E-commerce Landing Page** built with **React (Vite)** and **Tailwind CSS**.  
 This project was developed as part of my **Web Development Internship Program at SkillCraft Technology**.  
